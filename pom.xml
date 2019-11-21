@@ -8,11 +8,11 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.ay</groupId>
-    <artifactId>iot</artifactId>
+    <groupId>com.study</groupId>
+    <artifactId>study</artifactId>
     <version>1.0.0</version>
     <name>iot</name>
-    <description>iot相关</description>
+    <description>学习</description>
 
     <properties>
         <java.version>1.8</java.version>
